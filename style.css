@@ -24,6 +24,10 @@ hr {
   max-width: 650px; 
 }
 
+.buffer {
+  height: 10rem;
+}
+
 .btn {
   font-weight: 700;
   color: #e2dbdb;
